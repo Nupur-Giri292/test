@@ -12,3 +12,15 @@ h1 {
 h2 {
     text-transform: capitalize;
 }
+
+.box-div-wrap {
+    display: grid;
+    grid-template-columns: auto auto;
+}
+.yellow-box {
+    background-color: yellow;
+}
+
+.red-box {
+    background-color: red;
+}
