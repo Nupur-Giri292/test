@@ -3,3 +3,12 @@
     margin: 0;
     padding: 0;
 }
+.container {
+    background-color: antiquewhite;
+}
+h1 {
+    text-transform: uppercase;
+}
+h2 {
+    text-transform: capitalize;
+}
